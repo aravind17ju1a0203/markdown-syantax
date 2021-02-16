@@ -39,3 +39,5 @@
 ```
 ## link
 .[https://www.markdownguide.org/cheat-sheet/]
+## college website link
+.[kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
