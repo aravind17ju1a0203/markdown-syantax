@@ -41,3 +41,5 @@
 .[https://www.markdownguide.org/cheat-sheet/]
 ## college website link
 .[kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+## image
+![pic](https://github.com/aravind17ju1a0203/markdown-syantax/blob/master/file.jpeg)
