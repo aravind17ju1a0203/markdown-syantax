@@ -1,2 +1,4 @@
 # markdown-syantax
-day 2
+## heading 2
+### abcd
+#### zxcv
