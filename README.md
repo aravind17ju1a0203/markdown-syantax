@@ -21,5 +21,12 @@
    * eea
    * eeeb
  - sam
-     
+  ## code
+  ```python
+  def fun():
+    print ("hello kits eee")
+  ```  
+ ```
+ fun()
+ ```
  
